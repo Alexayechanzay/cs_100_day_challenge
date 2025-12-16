@@ -1,0 +1,23 @@
+Line 1: This is a test file for less and more.
+Line 2: You can scroll down line by line.
+Line 3: Try searching for text with /
+Line 4: Or scroll backwards with b in less.
+Line 5: more is more limited than less.
+Line 6: This line is just filler.
+Line 7: Another filler line.
+Line 8: Yet another line.
+Line 9: Keep going!
+Line 10: End of the file.
+This i sthe no jf
+aksdflasdjfklasdf
+asdfajskdfljasdklfa
+sdfasdfklasdjfasf
+asjfkalsjfklasjdf
+asfjakslfjklhkti
+tjkft
+jaksdfljltesting
+testing 
+astesktlji
+teksltjijkfejsaifjiedkfjeiodkeiojdiejjkjei
+djfkelja'xx
+

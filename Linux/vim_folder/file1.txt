@@ -1,0 +1,1 @@
+They way we use to write in vi is different from nano
